@@ -68,7 +68,7 @@ The collected data is processed via an **ESP32** microcontroller and:
 
 ## 📥 Download Documentation
 
-📄 [Download IoT & Hardware Final PDF](./ReemNazeh_IoT_Hardware_Final_Documentation.pdf)
+📄 [Download IoT & Hardware Final PDF](https://github.com/Reemnazeeh/Empowering-Disaster-Response-with-IoT-Hardware/blob/main/Air%20Quality%20%26%20Fire%20Monitoring%20System.pdf)
 
 ---
 
@@ -85,7 +85,7 @@ at the level of the Ministry of Higher Education Institutes (Egypt).
 IoT & Hardware Track Lead  
 📧 reem1nazeh@gmail.com  
 🔗 [GitHub: Reemnazeeh](https://github.com/Reemnazeeh)  
-🔗 [LinkedIn: Reem Nazeh](https://www.linkedin.com/in/reemnazeeh)
+🔗 [LinkedIn: Reem Nazeh](https://www.linkedin.com/in/reem-nazeh-9a8690229?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
@@ -93,4 +93,4 @@ IoT & Hardware Track Lead
 
 This subsystem plays a crucial role in the overall system architecture, enabling real-time monitoring and smart responses to potential environmental crises.
 
-For full system design and code, visit the [main project repository](#).
+For full system design and code, visit the [main project repository](https://github.com/Reemnazeeh/Empowering-Disaster-Response-with-IoT-Hardware/blob/main/Air%20Quality%20%26%20Fire%20Monitoring%20System.pdf).
