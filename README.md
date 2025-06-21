@@ -56,7 +56,7 @@ The collected data is processed via an **ESP32** microcontroller and:
 
 ## 🖥️ Blynk Dashboard
 
-![Blynk Dashboard](https://github.com/Reemnazeeh/iot-hardware-doc/blob/main/images/blynk-dashboard.png?raw=true)
+![Blynk Dashboard](https://github.com/Reemnazeeh/Empowering-Disaster-Response-with-IoT-Hardware/commit/f9a232dde1ddc4528645667ade554d172a32a43c)
 
 ---
 
