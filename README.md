@@ -1,12 +1,11 @@
-# Empowering-Disaster-Response-with-IoT-Hardware
-A Core Subsystem in a Secure, Decentralized Early Warning Architecture
 
+![Project Banner](https://github.com/Reemnazeeh/Empowering-Disaster-Response-with-IoT-Hardware/blob/main/images/Cover-Pic.png)
 ---
 
 # 📡 IoT & Hardware System for a Secure Early Warning System
 
 This repository contains the IoT and Hardware implementation of a **Secure, Decentralized Early Warning System for Disasters and Crises**.  
-The system is part of a multidisciplinary graduation project integrating AI, Backend, Frontend, Mobile, and Smart Contracts.
+The system is core Subsystem of a multidisciplinary graduation project integrating AI, Backend, Frontend, Mobile, and Smart Contracts.
 
 ---
 
